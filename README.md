@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Erika Manaia from Colinas do Tocantins!<br><br>- 🔭 I’m apenas estudando!<br>- 📚 I'm currently cursando Análise e Desenvolvimento de Sistemas!<br>- ⚡ In my free time I jogo, ouço música.</p>
+<p align="left">I'm Erika Manaia from Colinas do Tocantins!<br><br>- 🔭 I'm Open for work!<br>- 📚 I'm currently studying Análise e Desenvolvimento de Sistemas!<br>- ⚡ In my free time I play, listen to music or study.</p>
 
 ###
 
